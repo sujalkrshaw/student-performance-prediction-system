@@ -133,13 +133,17 @@ Student-Performance-Prediction-System/
 
 ## 📸 Screenshots
 
-### 🔹 Dashboard UI
+<p align="center">
+  <img src="output/ui.png" width="800"/>
+</p>
 
-![UI](assets/ui.png)
+<p align="center">
+  <img src="output/predict.png" width="800"/>
+</p>
 
-### 🔹 Prediction Output
-
-![Result](assets/result.png)
+<p align="center">
+  <img src="output/risk_distribution.png" width="800"/>
+</p>
 
 ---
 
